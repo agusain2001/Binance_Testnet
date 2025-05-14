@@ -9,15 +9,22 @@
 * **Order Placement:**
     * Place Market Orders (BUY/SELL)
     * Place Limit Orders (BUY/SELL)
-    * ![image](https://github.com/user-attachments/assets/35f62294-fff8-4f30-9be8-46472aaca547)
-
+  ![image](https://github.com/user-attachments/assets/bfbffcd4-8a3d-444c-8b7e-821edd02afe9)
 * **Order Management:**
     * Check the status of specific orders by Order ID.
+     ![image](https://github.com/user-attachments/assets/ad1c1a86-f760-46a5-85d2-6658fad8afa1)
+
 * **Account Information:**
     * View USDT account balance.
     * Fetch balance for other specified assets.
+   ![image](https://github.com/user-attachments/assets/62019a8a-dccb-43a3-9765-53253904f57e)
+
 * **API Interaction:** Uses the `python-binance` library for communication with the Binance API.
+  ![image](https://github.com/user-attachments/assets/c572aa67-bd96-4106-8aed-65f47027a2c2)
+
 * **Logging:** Comprehensive logging of API requests, responses, errors, and application events to a `trading_bot_streamlit.log` file and displayed within the UI.
+ ![image](https://github.com/user-attachments/assets/ec238c22-789c-4328-a9e1-d82db1524c42)
+
 * **Configuration:** Supports API key management via a `.env` file or direct input in the UI.
 
 ## 📋 Prerequisites
