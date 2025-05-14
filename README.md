@@ -37,8 +37,8 @@ You will also need:
 1.  **Clone the Repository (or Download Files):**
     If this project is in a Git repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone (https://github.com/agusain2001/Binance_Testnet.git)
+    cd Binance_Testnet
     ```
     Otherwise, ensure all project files (`streamlit_app.py`, etc.) are in the same directory.
 
