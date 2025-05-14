@@ -1,7 +1,7 @@
 # Binance Futures Trading Bot (Testnet) with Streamlit UI
 
-This project is a simplified trading bot that interacts with the Binance Futures Testnet. It provides a user-friendly interface built with Streamlit to place market and limit orders, check order statuses, and view account balances.
-
+- This project is a simplified trading bot that interacts with the Binance Futures Testnet. It provides a user-friendly interface built with Streamlit to place market and limit orders, check order statuses, and view account balances.
+- Also you can visit (https://agusain2001-binance-testnet-main-kotwya.streamlit.app/)
 ## 🚀 Features
 
 * **Testnet Focused:** Operates exclusively on the Binance Futures Testnet, ensuring no real funds are at risk.
@@ -9,6 +9,8 @@ This project is a simplified trading bot that interacts with the Binance Futures
 * **Order Placement:**
     * Place Market Orders (BUY/SELL)
     * Place Limit Orders (BUY/SELL)
+    * ![image](https://github.com/user-attachments/assets/35f62294-fff8-4f30-9be8-46472aaca547)
+
 * **Order Management:**
     * Check the status of specific orders by Order ID.
 * **Account Information:**
