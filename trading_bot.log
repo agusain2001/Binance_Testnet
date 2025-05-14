@@ -1,0 +1,15 @@
+2025-05-14 13:54:09,931 - trading_bot - INFO - Starting Trading Bot Application.
+2025-05-14 13:54:09,932 - trading_bot - CRITICAL - CRITICAL: API_KEY or API_SECRET not found in environment variables.
+2025-05-14 13:54:09,932 - trading_bot - CRITICAL - Please set BINANCE_TESTNET_API_KEY and BINANCE_TESTNET_API_SECRET.
+2025-05-14 13:55:46,000 - trading_bot - INFO - Starting Trading Bot Application.
+2025-05-14 13:55:49,330 - trading_bot - INFO - Bot initialized. Testnet: True
+2025-05-14 13:55:50,689 - trading_bot - INFO - Connected to Binance. Server time: 1747211150962
+2025-05-14 13:57:28,205 - trading_bot - INFO - Attempting to place MARKET order: SELL 0.0001 BTCUSDT
+2025-05-14 13:57:28,423 - trading_bot - ERROR - Binance API Exception placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-14 13:59:41,870 - trading_bot - INFO - Exiting bot.
+2025-05-14 13:59:45,720 - trading_bot - INFO - Starting Trading Bot Application.
+2025-05-14 13:59:46,096 - trading_bot - INFO - Bot initialized. Testnet: True
+2025-05-14 13:59:46,537 - trading_bot - INFO - Connected to Binance. Server time: 1747211387026
+2025-05-14 14:00:09,074 - trading_bot - INFO - Attempting to place MARKET order: BUY 0.001 BTCUSDT
+2025-05-14 14:00:09,281 - trading_bot - ERROR - Binance API Exception placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-14 17:55:12,475 - trading_bot - INFO - Exiting bot.

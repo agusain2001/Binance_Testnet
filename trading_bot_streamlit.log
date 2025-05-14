@@ -1,0 +1,3 @@
+2025-05-14 17:57:32,437 - trading_bot_streamlit - INFO - Bot initialized. Testnet: True
+2025-05-14 17:57:32,821 - trading_bot_streamlit - INFO - Connected to Binance. Server time: 1747225654450
+2025-05-14 17:57:32,823 - trading_bot_streamlit - INFO - Successfully connected via Streamlit UI.
